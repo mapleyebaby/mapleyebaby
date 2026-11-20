@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230"><rect width="1200" height="230" rx="18" fill="#F7F3EA"/><g font-family="Segoe UI,Arial,sans-serif" fill="#30251F"><text x="42" y="46" font-size="13" letter-spacing="3" fill="#BA4B32">02 / ON THE WORKBENCH</text>
+<text x="42" y="101" font-size="35" font-weight="650">skillhub <tspan font-size="13" fill="#74685B">PUBLIC FORK · JAVA</tspan></text>
+<text x="42" y="143" font-size="19">面向企业的开源 Agent 技能注册中心</text>
+<text x="42" y="179" font-size="15" fill="#74685B">技能包发布与版本管理 / 权限治理 / 私有化部署</text>
+<path d="M1000 90H1125M1100 65L1125 90 1100 115" stroke="#BA4B32" stroke-width="3" fill="none"/>
+<text x="42" y="207" font-size="12" fill="#74685B">UPSTREAM: iflytek/skillhub</text></g></svg>
